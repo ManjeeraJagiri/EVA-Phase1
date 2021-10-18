@@ -2,7 +2,7 @@
 
 Consider a simple NN with two inputs, a hidden layer with two neurons and two outputs. The architecture is shown below:
 
-![A simple Neural Network](/images/network_arch.jpg)
+![A simple Neural Network](https://github.com/ManjeeraJagiri/EVA-Phase1/blob/master/4_BackpropagationAndArchitecturalBasics/NN-training-Excel/images/network_arch.jpg)
 
 ### What constitutes training this network?
 
