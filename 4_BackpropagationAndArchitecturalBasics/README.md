@@ -21,6 +21,6 @@ Except the last convolutional layer, the rest have +BatchNorm layer and +Dropout
 2. Epochs : 20
 
 # Results
-Model parameters : 19056
-Validation accuracy : @Epoch 7, we get 99.44
+1. Model parameters : 19056
+2. Validation accuracy : @Epoch 7, we get 99.44
 
