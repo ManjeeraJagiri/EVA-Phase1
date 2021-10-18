@@ -1,6 +1,6 @@
 # Group Members
-Ashwin AG
-Manjeera Jagiri
+1. Ashwin AG
+2. Manjeera Jagiri
 
 # Neural Network Training Overview
 
